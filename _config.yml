@@ -31,7 +31,8 @@ github: brennanbrown
 
 header_image: assets/profile.png
 
-google_analytics: ''
+google_analytics:
+  id: 'UA-75894741-4'
 comments: true
 disqus: purelog-jekyll
 
